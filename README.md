@@ -1,4 +1,5 @@
 # Haladex-Production-Analysis
+![](#Image.jpg)
 # Table of Contents
 - [Introduction](#introduction)
 - [Business Task](#business-task)
