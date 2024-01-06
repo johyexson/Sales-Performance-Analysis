@@ -12,3 +12,5 @@
 - [Recommendations](#recommendation)
 - [Codes](#codes)
 - [Dashboard](#dashboard)
+# Introduction
+Haladex Water Production Company is an industry that specializes in manufacturing and production of satchet and bottled water.
