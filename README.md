@@ -13,4 +13,4 @@
 - [Codes](#codes)
 - [Dashboard](#dashboard)
 # Introduction
-Haladex Water Production Company is an industry that specializes in manufacturing and production of satchet and bottled water.
+Haladex Water Production Company is an industry that specializes in the manufacturing and production of satchet and bottled water. During my quest to volunteer as a data analyst for production companies in order to gain hands-on experience in the field, I got a referral from a company I once volunteered for and I was approached by Haladex's manager who expressed interest in having me analyse their production records and sales growth.
