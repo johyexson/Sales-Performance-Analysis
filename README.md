@@ -18,3 +18,8 @@ Haladex Water Production Company is an industry that specializes in the manufact
 Analyse production and sales record in order to determine sales growth and areas of improvement in production techniques
 # Data Source
 The sales record were provided by the manager of the company and necessary procedures were taken to ensure data integrity and privacy protection
+# Tools
+- Excel
+- Tableau
+# Methods
+
