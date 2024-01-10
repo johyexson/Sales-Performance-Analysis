@@ -23,4 +23,9 @@ The sales record were provided by the manager of the company and necessary proce
 - Tableau
 # Methods
 # Graphs
+![](Graph(1).png)
+
+![](Graph(2).png)
+
+![](Graph(3).png)
 
