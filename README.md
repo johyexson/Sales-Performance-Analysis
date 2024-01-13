@@ -20,10 +20,9 @@ The sales record were provided by the manager of the company and necessary proce
 - Excel
 - Tableau
 # Methods
-- Extraction of data from raw files
-- Cleaning and transforming data
-- Exploring and analyzing data to develop insights
-- Creating visualizations through dashboards
+- Cleaning and transforming data in Excel 
+- Processing and analyzing data to develop insights that can help solve business problem
+- Creating visualizations through dashboard using Tableau
 # Graphs
 ![](Graph(1).png)
 
