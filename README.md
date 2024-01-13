@@ -31,7 +31,8 @@ The sales record were provided by the manager of the company and necessary proce
 ![](Graph(3).png)
 
 # Summary of Findings
-- Printed rolls incurred the highest expenses in terms of production cost
-- The first and third week recorded a high increase in sales at the rate of 81% and 54% respectively
-- The third week was the most productive as zero naira was spent on production while sales performance almost doubled the amount of the previous week 
+- Printed rolls incurred the highest expenses in terms of production cost for December 2023
+- The first and third week recorded a high increase in sales at the rate of 81% and 54% respectively showing positive improvement in sales growth
+- The third week was the most productive as zero naira was spent on production while sales performance almost doubled the amount of the previous week
+- Weekly sales trend show that there was consistent increase in sales performance across the week, accounting for the 31% profit margin 📈 accumulated in December
 
