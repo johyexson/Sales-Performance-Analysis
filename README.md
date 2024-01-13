@@ -30,3 +30,8 @@ The sales record were provided by the manager of the company and necessary proce
 
 ![](Graph(3).png)
 
+# Summary of Findings
+- Printed rolls incurred the highest expenses in terms of production cost
+- The first and third week recorded a high increase in sales at the rate of 81% and 54% respectively
+- The third week was the most productive as zero naira was spent on production while sales performance almost doubled the amount of the previous week 
+
