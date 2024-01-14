@@ -9,6 +9,7 @@
 - [Graphs](#graphs)
 - [Summary of Findings](#summary-of-findings)
 - [Recommendations](#recommendation)
+- [Limitations](#limitations)
 - [Dashboard](#dashboard)
 # Introduction
 Haladex Water Production Company is an industry that specializes in the manufacturing and production of satchet and bottled water. During my quest to volunteer as a data analyst for production companies in order to gain hands-on experience in the field, I got a referral from a company I once volunteered for and I was approached by Haladex's manager who expressed interest in having me analyse their production and sales records to determine how sales growth can be enhanced.
@@ -38,5 +39,8 @@ The sales record were provided by the manager of the company and necessary proce
 # Recommendations 
 - Employ strategies to effectively minimise cost of production
 - Printed roll is an important tool for production that should be properly managed to help reduce expenses
+# Limitations
+- Inability to access customer data due to privacy policy
+- Inadequate data management and auditing of company records
 # Dashboard
 The dashboard I created in Tableau can be viewed [here](https://public.tableau.com/app/profile/joy.johnson5229/viz/HaladexWaterProductionAnalysis/Dashboard1)
