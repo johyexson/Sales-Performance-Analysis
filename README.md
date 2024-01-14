@@ -15,7 +15,7 @@ Haladex Water Production Company is an industry that specializes in the manufact
 # Business Task
 Analyse production and sales record in order to determine sales growth and areas of improvement in production techniques
 # Data Source
-The sales record were provided by the manager of the company and necessary procedures were taken to ensure data integrity and privacy protection. The data consist of multiple sheets containing several tables.
+The sales record were provided by the manager of the company and necessary procedures were taken to ensure data integrity and privacy protection. For this analysis, I did a simulation of the company data in order to avoid the issue of privacy invasion.
 # Tools
 - Excel
 - Tableau
