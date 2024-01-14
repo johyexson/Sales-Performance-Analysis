@@ -38,3 +38,5 @@ The sales record were provided by the manager of the company and necessary proce
 # Recommendations 
 - Employ strategies to effectively minimise cost of production
 - Printed roll is an important tool for production that should be properly managed to help reduce expenses
+# Dashboard
+The dashboard I created in Tableau can be viewed [here](https://public.tableau.com/app/profile/joy.johnson5229/viz/HaladexWaterProductionAnalysis/Dashboard1)
