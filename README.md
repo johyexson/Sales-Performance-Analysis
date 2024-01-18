@@ -19,7 +19,7 @@ Analyse production and sales record in order to determine sales growth and areas
 The sales record were provided by the manager of the company and necessary procedures were taken to ensure data integrity and privacy protection. For this analysis, I did a simulation of the company data in order to avoid the issue of privacy invasion.
 # Tools
 - Excel
-- Tableau
+- [Tableau](https://public.tableau.com/app/profile/joy.johnson5229/viz/HaladexWaterProductionAnalysis/Dashboard1)
 # Methods
 - Cleaning and transforming data in Excel 
 - Processing and analyzing data to develop insights that can help solve business problem
