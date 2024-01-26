@@ -25,11 +25,15 @@ The sales record were provided by the manager of the company and necessary proce
 - Processing and analyzing data to develop insights that can help solve business problem
 - Creating visualizations through dashboard using Tableau
 # Graphs
+Key questions were answered in the visualized results:
+
+![](Graph(3).png)
+
 ![](Graph(1).png)
 
 ![](Graph(2).png)
 
-![](Graph(3).png)
+
 
 # Summary of Findings
 - Printed rolls incurred the highest expenses in terms of production cost for December 2023
