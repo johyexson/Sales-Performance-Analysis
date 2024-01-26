@@ -26,14 +26,19 @@ The sales record were provided by the manager of the company and necessary proce
 - Creating visualizations through dashboard using Tableau
 # Graphs
 Key questions regarding the sales record were answered in the visualized results as seen below:
-* What does the sales growth performance for each week depict?
+* What does the sales growth per week depict?
 
 ![](Graph(2).png)
 
 * What is the sales trend for each week?
-![](Graph(1).png)
 
 ![](Graph(3).png)
+
+* How does sale performance vary by each day of the week?
+
+![](Graph(1).png)
+
+
 
 
 
