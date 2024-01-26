@@ -25,7 +25,8 @@ The sales record were provided by the manager of the company and necessary proce
 - Processing and analyzing data to develop insights that can help solve business problem
 - Creating visualizations through dashboard using Tableau
 # Graphs
-Key questions were answered in the visualized results:
+Key questions regarding the sales record were answered in the visualized results as seen below:
+* What does the sales growth performance for each week depict?
 
 ![](Graph(3).png)
 
