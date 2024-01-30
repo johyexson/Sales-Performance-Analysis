@@ -56,6 +56,6 @@ Key questions regarding the sales record were answered in the visualized results
 - Printed roll is an important tool for production that should be properly managed to help reduce expenses
 # Limitations
 - Inability to access customer data due to privacy policy
-- Inadequate data management and improper bookkeeping method 
+- Inadequate data management and improper bookkeeping method resulting to limited availability of data
 # Dashboard
 The dashboard I created in Tableau can be viewed [here](https://public.tableau.com/app/profile/joy.johnson5229/viz/HaladexWaterProductionAnalysis/Dashboard1)
