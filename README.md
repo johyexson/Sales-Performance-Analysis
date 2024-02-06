@@ -22,7 +22,7 @@ The sales record were provided by the manager of the company and necessary proce
 - [Tableau](https://public.tableau.com/app/profile/joy.johnson5229/viz/HaladexWaterProductionAnalysis/Dashboard1)
 # Methods
 - Cleaned and transformed data in Excel 
-- Processing and analyzing data to develop insights that can help solve business problem
+- Processed and analyzed data to develop insights that can help solve the business problem
 - Creating visualizations through dashboard using Tableau
 # Graphs
 Key questions regarding the sales record were answered in the visualized results as seen below:
