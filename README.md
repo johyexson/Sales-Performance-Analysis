@@ -16,7 +16,7 @@ Haladex Water Production Company is a corporation that specializes in the manufa
 # Business Task
 Analyse production and sales record in order to determine sales growth and areas of improvement in production techniques
 # Data Source
-The sales record were provided by the manager of the company and necessary procedures were taken to ensure data integrity and privacy protection. However, for this analysis I did a simulation of the analysis I carried out using the company data in order to avoid the issue of privacy invasion.
+The sales record were provided by the manager of the company and necessary procedures were taken to ensure data integrity and privacy protection. However, for this project I did a simulation of the analysis I carried out using the company data in order to avoid the issue of privacy invasion.
 # Tools
 - Excel
 - [Tableau](https://public.tableau.com/app/profile/joy.johnson5229/viz/HaladexWaterProductionAnalysis/Dashboard1)
