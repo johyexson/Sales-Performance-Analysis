@@ -23,7 +23,7 @@ The dataset which contained the company sales record were provided by the manage
 # Methods
 - Cleaned and transformed data in Excel 
 - Processed and analyzed data to develop insights that can help solve the business problem
-- Created visualizations through dashboard using Tableau
+- Created a dashboard using Tableau to visualize the results 
 # Graphs
 Key questions regarding the sales record were answered in the visualized results as seen below:
 * What does the sales growth per week depict?
