@@ -59,4 +59,4 @@ Key questions regarding the sales record were answered in the visualized results
 - Inability to access customer data due to privacy policy
 - Inadequate data management and improper bookkeeping method resulting to limited availability of data
 # Dashboard
-The dashboard I created in Tableau can be viewed [here](https://public.tableau.com/app/profile/joy.johnson5229/viz/HaladexWaterProductionAnalysis/Dashboard1)
+The dashboard I created in Tableau can be viewed [here](https://public.tableau.com/app/profile/joy.johnson5229/viz/HaladexWaterProductionAnalysis/Dashboard1) and the one I created in PowerBI can be viewed [here](https://app.powerbi.com/view?r=eyJrIjoiMGRiNjVmMTQtNTM5Ni00YzZhLWI4NDEtZDUwZmNhYjYwMTE3IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
