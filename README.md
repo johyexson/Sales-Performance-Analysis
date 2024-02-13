@@ -19,6 +19,7 @@ Analyse production and sales record in order to determine sales growth and give 
 The dataset which contained the company sales record were provided by the manager of the company. However, for this project I did a simulation of the analysis I carried out using the company data in order to ensure privacy protection.
 # Tools
 - Excel
+- [PowerBI] (https://app.powerbi.com/view?r=eyJrIjoiMGRiNjVmMTQtNTM5Ni00YzZhLWI4NDEtZDUwZmNhYjYwMTE3IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 - [Tableau](https://public.tableau.com/app/profile/joy.johnson5229/viz/HaladexWaterProductionAnalysis/Dashboard1)
 # Methods
 - Cleaned and transformed data in Excel 
