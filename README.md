@@ -40,14 +40,6 @@ Key questions regarding the sales record were answered in the visualized results
 
 ![](Graph(1).png)
 
-
-
-
-
-
-
-
-
 # Summary of Findings
 - Printed rolls incurred the highest expenses in terms of production cost for December 2023
 - The first and third week recorded a high increase in sales at the rate of 81% and 54% respectively showing positive improvement in sales growth
