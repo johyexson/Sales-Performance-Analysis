@@ -25,7 +25,8 @@ The dataset which contained the company sales record were provided by the manage
 - Cleaned and transformed data in Excel 
 - Processed and analyzed data to develop insights that can help solve the business problem
 - Created graphs using Tableau to visualize the results
-- Developed a dashboard using PowerBI
+- Developed a dashboard using Power BI
+
 Note: I decided to use the two BI Tools because I wanted to try out my skills in both.
 # Graphs
 Key questions regarding the sales record were answered in the visualized results as seen below:
