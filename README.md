@@ -1,27 +1,29 @@
 # Sales-Performance-Analysis
 ![](Image.jpg)
 # Table of Contents
-- [Introduction](#introduction)
+- [Case Study](#case-study)
+- [Data Overview](#data-overview)
+- [Hypothesis](#hypothesis)
 - [Business Task](#business-task)
-- [Data Source](#data-source)
-- [Tools](#tools)
-- [Methods](#methods)
+- [Tools for Analysis](#tools-for-analysis)
+- [Approach and Analysis Methods](#approach-and-analysis-methods)
 - [Graphs](#graphs)
 - [Summary of Findings](#summary-of-findings)
 - [Recommendations](#recommendation)
 - [Limitations](#limitations)
 - [Dashboard](#dashboard)
-# Introduction
+# Case Study
 Haladex Water Production Company is a corporation that specializes in the manufacturing and production of satchet and bottled water. During my quest to volunteer as a data analyst for production companies in order to gain hands-on experience in the field, I got a referral from a company I once volunteered for and I was approached by Haladex's manager who expressed interest in having me analyse their sales records
+# Data Overview
+The dataset which contained the company sales record were provided by the manager of the company. However, for this project I did a simulation of the analysis I carried out using the company data in order to ensure privacy protection.
+# Hypothesis
+My assumptions are as follows:
 # Business Task
 Analyse production and sales record in order to determine sales growth and give recommendations on areas of improvement in production techniques
-# Data Source
-The dataset which contained the company sales record were provided by the manager of the company. However, for this project I did a simulation of the analysis I carried out using the company data in order to ensure privacy protection.
-# Tools
+# Tools for Analysis
 - Excel
 - [PowerBI](https://app.powerbi.com/view?r=eyJrIjoiMGRiNjVmMTQtNTM5Ni00YzZhLWI4NDEtZDUwZmNhYjYwMTE3IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
-- [Tableau](https://public.tableau.com/app/profile/joy.johnson5229/viz/HaladexWaterProductionAnalysis/Dashboard1)
-# Methods
+# Approach and Analysis Methods
 - Cleaned and transformed data in Excel 
 - Processed and analyzed data to develop insights that can help solve the business problem
 - Created graphs using Tableau to visualize the results
@@ -54,4 +56,4 @@ Key questions regarding the sales record were answered in the visualized results
 - Inability to access customer data due to privacy policy
 - Inadequate data management and improper bookkeeping method resulting to limited availability of data
 # Dashboard
-The dashboard I created in Tableau can be viewed [here](https://public.tableau.com/app/profile/joy.johnson5229/viz/HaladexWaterProductionAnalysis/Dashboard1) and the one I created in PowerBI can be viewed [here](https://app.powerbi.com/view?r=eyJrIjoiMGRiNjVmMTQtNTM5Ni00YzZhLWI4NDEtZDUwZmNhYjYwMTE3IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
+The dashboard that I created in PowerBI can be viewed [here](https://app.powerbi.com/view?r=eyJrIjoiMGRiNjVmMTQtNTM5Ni00YzZhLWI4NDEtZDUwZmNhYjYwMTE3IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
