@@ -5,31 +5,24 @@
 - [Data Overview](#data-overview)
 - [Hypothesis](#hypothesis)
 - [Business Task](#business-task)
-- [Tools for Analysis](#tools-for-analysis)
-- [Approach and Analysis Methods](#approach-and-analysis-methods)
+- [Tools](#tools)
+- [Analysis Methods](#analysis-methods)
 - [Graphs](#graphs)
 - [Summary of Findings](#summary-of-findings)
 - [Recommendations](#recommendation)
-- [Limitations](#limitations)
 - [Dashboard](#dashboard)
 # Case Study
-Haladex Water Production Company is a corporation that specializes in the manufacturing and production of satchet and bottled water. During my quest to volunteer as a data analyst for production companies in order to gain hands-on experience in the field, I got a referral from a company I once volunteered for and I was approached by Haladex's manager who expressed interest in having me analyse their sales records
+A manufacturing company is a corporation that specializes in the production of satchet and bottled water wants to analyse its production and sales record in order to determine sales growth and pinpoint areas that require improvements in their production techniques.
 # Data Overview
-The dataset which contained the company sales record were provided by the manager of the company. However, for this project I did a simulation of the analysis I carried out using the company data in order to ensure privacy protection.
-# Hypothesis
-My assumptions are as follows:
-# Business Task
-Analyse production and sales record in order to determine sales growth and give recommendations on areas of improvement in production techniques
-# Tools for Analysis
+The dataset was provided by an actual manufacturing company. However, for this project I used a simulation of the dataanalysis in order to ensure privacy protection.
+# Tools
 - Excel
 - [PowerBI](https://app.powerbi.com/view?r=eyJrIjoiMGRiNjVmMTQtNTM5Ni00YzZhLWI4NDEtZDUwZmNhYjYwMTE3IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
-# Approach and Analysis Methods
+# Analysis Methods
 - Cleaned and transformed data in Excel 
 - Processed and analyzed data to develop insights that can help solve the business problem
 - Created graphs using Tableau to visualize the results
 - Developed a dashboard using Power BI
-
-Note: I decided to use the two BI Tools because I wanted to try out my skills in both.
 # Graphs
 Key questions regarding the sales record were answered in the visualized results as seen below:
 * What does the sales growth per week depict?
@@ -52,8 +45,5 @@ Key questions regarding the sales record were answered in the visualized results
 # Recommendations 
 - Employ strategies to effectively minimise cost of production
 - Printed roll is an important tool for production that should be properly managed to help reduce expenses
-# Limitations
-- Inability to access customer data due to privacy policy
-- Inadequate data management and improper bookkeeping method resulting to limited availability of data
 # Dashboard
 The dashboard that I created in PowerBI can be viewed [here](https://app.powerbi.com/view?r=eyJrIjoiMGRiNjVmMTQtNTM5Ni00YzZhLWI4NDEtZDUwZmNhYjYwMTE3IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
